@@ -14,16 +14,16 @@
 choice = 'banana'
 # while choice != 'q' and choice != 'quit':
 while choice[0] != 'q':
-  message = "\n'echo' for echo"
-  message += "\n'sum' for large sum"
-  message += "\n'other' for every other letter: "
-  choice = input(message)
-  print()
-  # TODO 'echo'
+    message = "\n'echo' for echo"
+    message += "\n'sum' for large sum"
+    message += "\n'other' for every other letter: "
+    choice = input(message)
+    print()
+    # TODO 'echo'
 
-  # TODO 'sum'
+    # TODO 'sum'
 
-  # TODO 'other'
+    # TODO 'other'
 
 
     
