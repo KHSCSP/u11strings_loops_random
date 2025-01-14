@@ -21,8 +21,8 @@
 choice = 'banana'
 # while choice != 'q' and choice != 'quit':
 while choice[0] != 'q':
-    message += "\n'extra' for eextraa"
-    message = "\n'echo' for echo"
+    message = "\n'extra' for eextraa"
+    message += "\n'echo' for echo"
     message += "\n'sum' for large sum"
     message += "\n'other' for every other letter: "
     choice = input(message)
